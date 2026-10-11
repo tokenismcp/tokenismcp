@@ -42,7 +42,8 @@ Docker Compose and Helm, Prometheus metrics. Apache-2.0.
 
 ## Status
 
-Pre-release: v0.1.0 is in preparation. Not independently audited yet; feedback on the threat
-model is the most useful thing you can give us.
+**v0.1.0 is out** ([release notes](https://github.com/tokenismcp/tokenis-mcp/releases/tag/v0.1.0)); try it
+on fictional data with `uvx --index https://tokenismcp.github.io/tokenis-mcp/simple/ tokenis-mcp tools --demo`.
+Not independently audited yet; feedback on the threat model is the most useful thing you can give us.
 
 *Built by 4Chains Inc. Research published through J1729Labs.*
