@@ -46,4 +46,12 @@ Docker Compose and Helm, Prometheus metrics. Apache-2.0.
 on fictional data with `uvx --index https://tokenismcp.github.io/tokenis-mcp/simple/ tokenis-mcp tools --demo`.
 Not independently audited yet; feedback on the threat model is the most useful thing you can give us.
 
-*Built by 4Chains Inc. Research published through J1729Labs.*
+## Also from us: PROF
+
+**[PROF](https://github.com/tokenismcp/prof)** (Proof-Required Operation Framework): cryptographic execution control for AI agents.
+Every side effect needs a signed, single-use permit; high-risk actions need a human; every decision lands in a tamper-evident ledger.
+Source-available, free for noncommercial use; commercial use is licensed.
+
+---
+
+*Built by [4Chains Inc.](https://4chains.site) Research published through [J1729Labs](https://j1729labs.site).*
